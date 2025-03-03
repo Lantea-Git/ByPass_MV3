@@ -1,4 +1,4 @@
-Soulition **temporaire** pour permettre d'utiliser encore le Manifestv2 **(Ublock Origins sur Chrome)**
+Solution **temporaire** pour permettre d'utiliser encore le Manifestv2 **(Ublock Origins sur Chrome)** 
 
 ## Il suffit de télécharger le fichier, de l'exécuter et de redémarrer le navigateur. ![Screen](/Ressources/download.png)
 
