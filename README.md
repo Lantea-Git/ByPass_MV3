@@ -14,7 +14,7 @@
 **Modifications pour tous les navigateurs Chromium :**
 
 - [MV2_Force_AllChromium(Admin).reg](./MV2_Force_AllChromium(Admin).reg)
-- [MV2_Force_AllChromium.bat](./MV2_Force_AllChromium.bat)
+- [MV2_Force_AllChromium.bat](./MV2_Force_AllChromium.bat) (aucun droit admin demandé)
 
 
 ![Screen](Thanks_Google.png)
