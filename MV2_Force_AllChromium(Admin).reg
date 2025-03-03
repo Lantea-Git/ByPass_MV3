@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Policies\BraveSoftware\Brave]
+"ExtensionManifestV2Availability"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Policies\Chromium]
+"ExtensionManifestV2Availability"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Policies\Google\Chrome]
+"ExtensionManifestV2Availability"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge]
+"ExtensionManifestV2Availability"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Policies\Vivaldi]
+"ExtensionManifestV2Availability"=dword:00000002
+
+[HKEY_CURRENT_USER\SOFTWARE\Policies\YandexBrowser]
+"ExtensionManifestV2Availability"=dword:00000002
