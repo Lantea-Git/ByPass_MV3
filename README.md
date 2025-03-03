@@ -1,3 +1,5 @@
+
+
 ## Il suffit de télécharger le fichier, de l'exécuter et de redémarrer le navigateur.
 
 **Modifications par navigateur :**
@@ -13,3 +15,6 @@
 
 - [MV2_Force_AllChromium(Admin).reg](./MV2_Force_AllChromium(Admin).reg)
 - [MV2_Force_AllChromium.bat](./MV2_Force_AllChromium.bat)
+
+
+![Screen](Thanks_Google.png)
