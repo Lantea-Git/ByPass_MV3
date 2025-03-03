@@ -1,6 +1,6 @@
 
 
-## Il suffit de télécharger le fichier, de l'exécuter et de redémarrer le navigateur.
+## Il suffit de télécharger le fichier, de l'exécuter et de redémarrer le navigateur. ![Screen](/Ressources/download.png)
 
 **Modifications par navigateur :**
 
@@ -17,4 +17,4 @@
 - [MV2_Force_AllChromium.bat](./MV2_Force_AllChromium.bat) (aucun droit admin demandé)
 
 
-![Screen](Thanks_Google.png)
+![Screen](/Ressources/Thanks_Google_OpenSource.png)
