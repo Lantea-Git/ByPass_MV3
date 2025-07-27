@@ -1,4 +1,4 @@
-Solution **temporaire** **(toujours valide)** MV2 sur Chromium **(Ublock Origins /ViolentMonkey sur Chrome)** 
+Solution **temporaire** **(toujours valide)** MV2 sur Chromium **(Ublock Origins /ViolentMonkey sur Chrome)**    
 Droit admin depuis une mise à jour de windows   
 
 ## Il suffit de télécharger le fichier, de l'exécuter et de redémarrer le navigateur. ![Screen](/Ressources/download.png)
