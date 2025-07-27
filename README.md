@@ -3,10 +3,9 @@ Solution **temporaire** **(juin 2025)** pour permettre d'utiliser encore le Mani
 ## Il suffit de télécharger le fichier, de l'exécuter et de redémarrer le navigateur. ![Screen](/Ressources/download.png)
 
 **Modifications par navigateur :**
-
-- [MV2_Force_Brave(Admin).reg](./MV2_Force_Brave(Admin).reg)
-- [MV2_Force_Chrome(Admin).reg](./MV2_Force_Chrome(Admin).reg)
-- [MV2_Force_Edge(Admin).reg](./MV2_Force_Edge(Admin).reg)
+- **[MV2_Force_Chrome(Admin).reg](./MV2_Force_Chrome(Admin).reg)**
+- [MV2_Force_Brave(Admin).reg](./MV2_Force_Brave(Admin).reg)   
+- [MV2_Force_Edge(Admin).reg](./MV2_Force_Edge(Admin).reg)   
 
 **Modifications pour tous les navigateurs Chromium :**
 
